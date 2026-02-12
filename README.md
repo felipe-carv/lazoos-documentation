@@ -14,7 +14,7 @@ O **Lazoos.me** é uma plataforma de e-commerce completa desenvolvida para autom
 
 ## 📸 Demonstração
 <p align="center">
-  <img src="https://res.cloudinary.com/dqbzrahxb/video/upload/v1770901786/WhatsApp_Video_2026-02-12_at_10.08.16_ttx9zl.mp4" alt="Demonstração do Lazoos">
+  <video src="https://github.com/user-attachments/assets/40e0d386-c723-46a9-9e87-6086e863db37" width="100%" autoplay loop muted playsinline></video>
 </p>
 
 ---
