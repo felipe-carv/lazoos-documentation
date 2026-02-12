@@ -1,5 +1,5 @@
 # Lazoos.me - E-commerce Intelligence & Automation
-
+### 🔗 [Acesse o Projeto: lazoos.me](https://lazoos.me)
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Produ%C3%A7%C3%A3o-green" alt="Status">
   <img src="https://img.shields.io/badge/Stack-Django%20%7C%20React%20%7C%20SQL%20Server-blue" alt="Stack">
@@ -9,6 +9,13 @@
 O **Lazoos.me** é uma plataforma de e-commerce completa desenvolvida para automatizar processos de venda e otimizar a comunicação com o cliente. Diferente de soluções prontas, este projeto foi construído do zero para suportar integrações complexas de pagamento e fluxos de dados personalizados.
 
 > **Nota:** Por questões de propriedade intelectual, o código-fonte deste projeto é mantido em um repositório privado. Esta documentação visa detalhar as decisões técnicas e a arquitetura do sistema.
+
+---
+
+## 📸 Demonstração
+<p align="center">
+  <img src="https://res.cloudinary.com/dqbzrahxb/video/upload/v1770901786/WhatsApp_Video_2026-02-12_at_10.08.16_ttx9zl.mp4" alt="Demonstração do Lazoos">
+</p>
 
 ---
 
